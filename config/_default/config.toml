@@ -23,7 +23,7 @@ googleAnalytics = ""
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "hugo-octopress"
+theme = "hugo-theme-cleanwhite"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
